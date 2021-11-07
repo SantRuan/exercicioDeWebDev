@@ -1,0 +1,58 @@
+
+*{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.05em;
+}
+.container{
+    padding: 30px;
+    border: solid black;
+    border-radius: 5px;
+    background-color: #F2E416;
+}
+form {
+display:block;
+padding: 25px;
+border: solid black;
+border-radius: 5px;
+}
+
+form label{
+    margin: 10px;
+}
+
+form input, textarea{
+    width: 100%;
+    margin: 10px
+}
+
+form input {
+    height: 30px;
+    background-color: #FFFCE6;
+}
+
+form textarea{
+    height: 150px;
+    background-color: #FFFCE6;
+}
+
+.container-buttons{
+    border: solid black;
+    padding: 30px;
+    margin: 30px; 
+    background-color: #F2E416 ;
+}
+.enviar{
+    width: 100%;
+    margin: 15px;
+    height: 30px;
+    border-radius: 2px;
+    background-color:#F2B705 ;
+}
+
+.resetar{
+    width: 100%;
+    margin:15px;
+    height: 30px;
+    border-radius: 2px;
+    background-color:#F2B705 ;
+}
